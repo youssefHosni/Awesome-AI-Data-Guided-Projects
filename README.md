@@ -1,4 +1,4 @@
-# Awesome-AI-Data-Guided-Projects
+# Awesome-AI-Data-Guided-Projects  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of data science &amp; AI guided projects to start building your portfolio
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-AI-Data-Guided-Projects.svg)](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects/blob/master/LICENSE)
