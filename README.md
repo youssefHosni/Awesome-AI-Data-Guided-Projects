@@ -20,34 +20,25 @@ A curated list of data science &amp; AI guided projects to start building your p
 
 ## [Gudied Time Series Projects to Build Your Portfolio](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
-1. Forecasting Projects:
-1.1. Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning
+1. Forecasting Projects
+* Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning
+* Time Series Forecasting with Facebook Prophet and Python
+* Forecasting Future Sales Using ARIMA and SARIMAX
+* Forecasting Weather with Neural Prophet and Python
+* Time Series Forecasting with XGBoost — Use Python and machine learning to predict energy consumption
+* Build A Stock Prediction Web App In Python
+* Time Series Forecasting with PyCaret Regression Module
 
-1.2. Time Series Forecasting with Facebook Prophet and Python
-
-1.3. Forecasting Future Sales Using ARIMA and SARIMAX
-
-1.4. Forecasting Weather with Neural Prophet and Python
-
-1.5. Time Series Forecasting with XGBoost — Use Python and machine learning to predict energy consumption
-
-1.6. Build A Stock Prediction Web App In Python
-
-1.7. Time Series Forecasting with PyCaret Regression Module
-
-2. Time Series Analysis Projects:
-2.1. Hourly Energy Data Time Series Analysis
-
-2.2. Stock Market Performance Analysis using Python
-
-2.3. Exploratory Data Analysis for Time Series Data using PyCaret
+2. Time Series Analysis Projects
+* Hourly Energy Data Time Series Analysis
+* Stock Market Performance Analysis using Python
+* Exploratory Data Analysis for Time Series Data using PyCaret
 
 3. Anomaly Detection Projects:
-3.1. Machine Learning — Anomaly Detection via PyCaret
 
-3.2. An End-to-End Unsupervised Anomaly Detection
-
-3.3. Time Series Anomaly Detection with PyFBAD
+* Machine Learning — Anomaly Detection via PyCaret
+* An End-to-End Unsupervised Anomaly Detection
+* Time Series Anomaly Detection with PyFBAD
 
 
 
