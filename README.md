@@ -12,11 +12,47 @@ A curated list of data science &amp; AI guided projects to start building your p
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-AI-Data-Guided-Projects.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-AI-Data-Guided-Projects/stargazers/)
 
 
-## * [Gudied Time Series Projects to Build Your Portfolio](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
-## * [Guided Large Language Models Projects to Build Your Portfolio](https://levelup.gitconnected.com/10-guided-large-language-models-projects-to-build-your-portfolio-dc9bd79f09c?sk=fa1867433c0285c6f41470fba0d2198f) ## 
 
-## * [Guided Computer Vision Projects to Build Your Portfolio](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
+## [Guided Large Language Models Projects to Build Your Portfolio](https://levelup.gitconnected.com/10-guided-large-language-models-projects-to-build-your-portfolio-dc9bd79f09c?sk=fa1867433c0285c6f41470fba0d2198f) ## 
+
+
+
+## [Gudied Time Series Projects to Build Your Portfolio](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
+
+1. Forecasting Projects:
+1.1. Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning
+
+1.2. Time Series Forecasting with Facebook Prophet and Python
+
+1.3. Forecasting Future Sales Using ARIMA and SARIMAX
+
+1.4. Forecasting Weather with Neural Prophet and Python
+
+1.5. Time Series Forecasting with XGBoost — Use Python and machine learning to predict energy consumption
+
+1.6. Build A Stock Prediction Web App In Python
+
+1.7. Time Series Forecasting with PyCaret Regression Module
+
+2. Time Series Analysis Projects:
+2.1. Hourly Energy Data Time Series Analysis
+
+2.2. Stock Market Performance Analysis using Python
+
+2.3. Exploratory Data Analysis for Time Series Data using PyCaret
+
+3. Anomaly Detection Projects:
+3.1. Machine Learning — Anomaly Detection via PyCaret
+
+3.2. An End-to-End Unsupervised Anomaly Detection
+
+3.3. Time Series Anomaly Detection with PyFBAD
+
+
+
+## [Guided Computer Vision Projects to Build Your Portfolio](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
+
  
-## * [Guided Data Science Projects to Build Your Portfolio](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
+## [Guided Data Science Projects to Build Your Portfolio](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
 
