@@ -20,7 +20,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 
 ## [Gudied Time Series Projects to Build Your Portfolio](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
-1. Forecasting Projects
+### 1. Forecasting Projects
 * Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning
 * Time Series Forecasting with Facebook Prophet and Python
 * Forecasting Future Sales Using ARIMA and SARIMAX
@@ -29,12 +29,12 @@ A curated list of data science &amp; AI guided projects to start building your p
 * Build A Stock Prediction Web App In Python
 * Time Series Forecasting with PyCaret Regression Module
 
-2. Time Series Analysis Projects
+### 2. Time Series Analysis Projects
 * Hourly Energy Data Time Series Analysis
 * Stock Market Performance Analysis using Python
 * Exploratory Data Analysis for Time Series Data using PyCaret
 
-3. Anomaly Detection Projects:
+### 3. Anomaly Detection Projects:
 
 * Machine Learning — Anomaly Detection via PyCaret
 * An End-to-End Unsupervised Anomaly Detection
