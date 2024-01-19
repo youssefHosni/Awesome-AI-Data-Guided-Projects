@@ -66,4 +66,15 @@ A curated list of data science &amp; AI guided projects to start building your p
 
  
 ## [Guided Data Science Projects to Build Your Portfolio](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
+* [Automatic Speech Recognition System]()
+* [Building Production-Ready Enterprise-Level Image Classifier with AWS & React]()
+* [Predicting Data Science Salaries APP]()
+* [Real Estate Price Prediction APP]()
+* [Potato Disease Classification Mobile APP]()
+* [Sports Celebrity Image Classification Web App]()
+* [Real-Time Data Analysis Application]()
+* [Machine Learning Model Monitoring using Airflow and Docker]()
+* [AI-Based Hybrid Recommender System]()
+* [Embedding-Based Search Engine]()
+
 
