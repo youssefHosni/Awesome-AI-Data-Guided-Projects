@@ -16,16 +16,16 @@ A curated list of data science &amp; AI guided projects to start building your p
 
 ## [Guided Large Language Models Projects](https://levelup.gitconnected.com/10-guided-large-language-models-projects-to-build-your-portfolio-dc9bd79f09c?sk=fa1867433c0285c6f41470fba0d2198f) ## 
 
-* [Building a Conversational Chatbot with Langchain and Large Language Models]()
-* [Building a Conversational Chatbot with Langchain and Large Language Models]()
-* [Chat with your Document using OpenAI API & Streamlit]()
-* [Building A Falcon 4 0BChat Web Application using HuggingFace & Gardio]()
-* [Building GPT Banker Using LLaMA 2 70B]()
-* [Finetune Llama 2 On Your Local Machine Using HuggingFace Autotrain]()
-* [Building a Lex Fridman Podcast Summarization App with Whisper Jax, Azure OpenAI, and Langchain]()
-* [Creating a Veterinary Chatbot using Llama 2: Harnessing Gen AI for Pet Care]()
-* [Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers)]()
-* [Article/Blog Generation App using Llama2, Langchain, and Pexels]()
+* [Building a Conversational Chatbot with Langchain and Large Language Models](https://blog.gopenai.com/building-a-conversational-chatbot-with-langchain-and-large-language-models-dbfae17aae47)
+* [Building a Conversational Chatbot with Langchain and Large Language Models](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be)
+* [Chat with your Document using OpenAI API & Streamlit](https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0)
+* [Building A Falcon 4 0BChat Web Application using HuggingFace & Gardio](https://www.youtube.com/watch?v=hMJgdVJWQRU)
+* [Building GPT Banker Using LLaMA 2 70B](https://www.youtube.com/watch?v=LslC2nKEEGU)
+* [Finetune Llama 2 On Your Local Machine Using HuggingFace Autotrain](https://www.youtube.com/watch?v=LslC2nKEEGU)
+* [Building a Lex Fridman Podcast Summarization App with Whisper Jax, Azure OpenAI, and Langchain](https://www.youtube.com/watch?v=xpp9CRjK6zs&t=4s)
+* [Creating a Veterinary Chatbot using Llama 2: Harnessing Gen AI for Pet Care](https://www.youtube.com/watch?v=Iyzvka711pc)
+* [Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers)](https://www.youtube.com/watch?v=rQq1m2aJ_fk&t=4s)
+* [Article/Blog Generation App using Llama2, Langchain, and Pexels](https://www.youtube.com/watch?v=MUADZ97GgZA)
 
 ## [Gudied Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
