@@ -63,15 +63,15 @@ A curated list of data science &amp; AI guided projects to start building your p
 
  
 ## [Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
-* [Automatic Speech Recognition System]()
-* [Building Production-Ready Enterprise-Level Image Classifier with AWS & React]()
-* [Predicting Data Science Salaries APP]()
-* [Real Estate Price Prediction APP]()
-* [Potato Disease Classification Mobile APP]()
-* [Sports Celebrity Image Classification Web App]()
-* [Real-Time Data Analysis Application]()
-* [Machine Learning Model Monitoring using Airflow and Docker]()
-* [AI-Based Hybrid Recommender System]()
-* [Embedding-Based Search Engine]()
+* [Automatic Speech Recognition System](https://www.youtube.com/watch?v=rsNAb1KmvFI)
+* [Building Production-Ready Enterprise-Level Image Classifier with AWS & React](https://www.udemy.com/course/build-and-deploy-a-ml-model-to-production-with-aws-and-react/)
+* [Predicting Data Science Salaries APP](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
+* [Real Estate Price Prediction APP](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg)
+* [Potato Disease Classification Mobile APP](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD)
+* [Sports Celebrity Image Classification Web App](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc)
+* [Real-Time Data Analysis Application](https://www.youtube.com/watch?v=NFwNKkIkN6o&list=PLe1T0uBrDrfOYE8OwQvooPjmnP1zY3wFe&index=2)
+* [Machine Learning Model Monitoring using Airflow and Docker](https://www.projectpro.io/project-use-case/ml-model-monitoring-using-apache-airflow-and-docker)
+* [AI-Based Hybrid Recommender System](https://ineuron.ai/course/Data-Science-Industry-Ready-Projects#:~:text=Project%20%2D%20AI%20Based%20Hybrid%20Recommender%20System)
+* [Embedding-Based Search Engine](https://ineuron.ai/course/Data-Science-Industry-Ready-Projects#:~:text=Project%20%2D%20AI%20Based%20Hybrid%20Recommender%20System)
 
 
