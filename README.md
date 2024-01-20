@@ -30,26 +30,23 @@ A curated list of data science &amp; AI guided projects to start building your p
 ## [Gudied Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
 ### 1. Forecasting Projects
-* [Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning]()
-* [Time Series Forecasting with Facebook Prophet and Python]()
-* [Forecasting Future Sales Using ARIMA and SARIMAX]()
-* [Forecasting Weather with Neural Prophet and Python]()
-* [Time Series Forecasting with XGBoost — Use Python and machine learning to predict energy consumption]()
-* [Build A Stock Prediction Web App In Python]()
-* [Time Series Forecasting with PyCaret Regression Module]()
+* [Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning](https://www.youtube.com/watch?app=desktop&v=H6du_pfuznE)
+* [Time Series Forecasting with Facebook Prophet and Python](https://www.youtube.com/watch?v=KvLG1uTC-KU&t=1s)
+* [Forecasting Future Sales Using ARIMA and SARIMAX](https://www.youtube.com/watch?v=2XGSIlgUBDI&t=1s)
+* [Forecasting Weather with Neural Prophet and Python](https://www.youtube.com/watch?v=mgX0Iz4q0bE)
+* [Time Series Forecasting with XGBoost — Use Python and machine learning to predict energy consumption](https://www.youtube.com/watch?v=vV12dGe_Fho)
+* [Build A Stock Prediction Web App In Python](https://www.youtube.com/watch?app=desktop&v=0E_31WqVzCY)
+* [Time Series Forecasting with PyCaret Regression Module](https://towardsdatascience.com/time-series-forecasting-with-pycaret-regression-module-237b703a0c63)
 
 ### 2. Time Series Analysis Projects
-* [Hourly Energy Data Time Series Analysis]()
-* [Stock Market Performance Analysis using Python]()
-* [Exploratory Data Analysis for Time Series Data using PyCaret]()
+* [Hourly Energy Data Time Series Analysis](](https://towardsdatascience.com/part-1-time-series-analysis-predicting-hourly-energy-consumption-of-san-diego-short-term-long-3a1dd1a589c9)
+* [Stock Market Performance Analysis using Python](https://thecleverprogrammer.com/2023/05/08/stock-market-performance-analysis-using-python/)
+* [Exploratory Data Analysis for Time Series Data using PyCaret](https://www.youtube.com/watch?v=NX8SH8EjHhI)
 
 ### 3. Anomaly Detection Projects:
-
-* [Machine Learning — Anomaly Detection via PyCaret]()
-* [An End-to-End Unsupervised Anomaly Detection]()
-* [Time Series Anomaly Detection with PyFBAD]()
-
-
+* [Machine Learning — Anomaly Detection via PyCaret](https://www.coursera.org/projects/anomaly-detection)
+* [An End-to-End Unsupervised Anomaly Detection](https://engineering.teknasyon.com/an-end-to-end-unsupervised-anomaly-detection-c402facffee2)
+* [Time Series Anomaly Detection with PyFBAD](https://towardsdatascience.com/time-series-anomaly-detection-with-pyfbad-d37e5462c6c3)
 
 ## [Guided Computer Vision Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
 * [Build a Deep Facial Recognition App from Paper to Code]()
