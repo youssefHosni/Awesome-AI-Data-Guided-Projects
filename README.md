@@ -49,16 +49,16 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [Time Series Anomaly Detection with PyFBAD](https://towardsdatascience.com/time-series-anomaly-detection-with-pyfbad-d37e5462c6c3)
 
 ## [Guided Computer Vision Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
-* [Build a Deep Facial Recognition App from Paper to Code]()
-* [Real-Time Sign Language Detection Web App]()
-* [Building Computer Vision Mobile Apps]()
-* [Building an Image Search Engine with Python and OpenCV]()
-* [Vehicle Detection, Tracking, and Speed Estimation using a Raspberry Pi & Intel Movidius NCS]()
-* [MaskFormer Segmentation Model with Hugging Face Transformers]()
-* [Age Detection with Deep Learning]()
-* [Building a Horse to Zebra CycleGAN Webapp with Streamlit]()
-* [Computer Vision App with Azure Cognitive Services]()
-* [Object Detection with Amazon Sagemaker]()
+* [Build a Deep Facial Recognition App from Paper to Code](https://youtu.be/bK_k7eebGgc?list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH)
+* [Real-Time Sign Language Detection Web App](https://youtu.be/ZTSRZt04JkY)
+* [Building Computer Vision Mobile Apps](https://youtu.be/YAhid-ux3aY)
+* [Building an Image Search Engine with Python and OpenCV](https://pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/?source=post_page-----537fcd20db7c--------------------------------)
+* [Vehicle Detection, Tracking, and Speed Estimation using a Raspberry Pi & Intel Movidius NCS](https://pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/?source=post_page-----537fcd20db7c--------------------------------)
+* [MaskFormer Segmentation Model with Hugging Face Transformers](https://pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/?source=post_page-----537fcd20db7c--------------------------------)
+* [Age Detection with Deep Learning](https://pyimagesearch.com/2023/03/13/train-a-maskformer-segmentation-model-with-hugging-face-transformers/?source=post_page-----537fcd20db7c--------------------------------)
+* [Building a Horse to Zebra CycleGAN Webapp with Streamlit](https://www.coursera.org/projects/building-a-keras-horse-zebra-cyclegan-webapp-with-streamlit?source=post_page-----537fcd20db7c--------------------------------)
+* [Computer Vision App with Azure Cognitive Services](https://www.coursera.org/projects/build-a-computer-vision-app-with-azure-cognitive-services?source=post_page-----537fcd20db7c--------------------------------)
+* [Object Detection with Amazon Sagemaker](https://www.coursera.org/projects/object-detection-sagemaker?source=post_page-----537fcd20db7c--------------------------------)
 
 
  
