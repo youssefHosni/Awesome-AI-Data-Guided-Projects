@@ -14,7 +14,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 
 
 
-## [Guided Large Language Models Projects](https://levelup.gitconnected.com/10-guided-large-language-models-projects-to-build-your-portfolio-dc9bd79f09c?sk=fa1867433c0285c6f41470fba0d2198f) ## 
+## [1. Guided Large Language Models Projects](https://levelup.gitconnected.com/10-guided-large-language-models-projects-to-build-your-portfolio-dc9bd79f09c?sk=fa1867433c0285c6f41470fba0d2198f) ## 
 
 * [Building a Conversational Chatbot with Langchain and Large Language Models](https://blog.gopenai.com/building-a-conversational-chatbot-with-langchain-and-large-language-models-dbfae17aae47)
 * [Building a Conversational Chatbot with Langchain and Large Language Models](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be)
@@ -27,7 +27,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers)](https://www.youtube.com/watch?v=rQq1m2aJ_fk&t=4s)
 * [Article/Blog Generation App using Llama2, Langchain, and Pexels](https://www.youtube.com/watch?v=MUADZ97GgZA)
 
-## [Gudied Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
+## [2. Gudied Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
 ### 1. Forecasting Projects
 * [Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning](https://www.youtube.com/watch?app=desktop&v=H6du_pfuznE)
@@ -48,7 +48,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [An End-to-End Unsupervised Anomaly Detection](https://engineering.teknasyon.com/an-end-to-end-unsupervised-anomaly-detection-c402facffee2)
 * [Time Series Anomaly Detection with PyFBAD](https://towardsdatascience.com/time-series-anomaly-detection-with-pyfbad-d37e5462c6c3)
 
-## [Guided Computer Vision Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
+## [3. Guided Computer Vision Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
 * [Build a Deep Facial Recognition App from Paper to Code](https://youtu.be/bK_k7eebGgc?list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH)
 * [Real-Time Sign Language Detection Web App](https://youtu.be/ZTSRZt04JkY)
 * [Building Computer Vision Mobile Apps](https://youtu.be/YAhid-ux3aY)
@@ -62,7 +62,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 
 
  
-## [Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
+## [4. Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
 * [Automatic Speech Recognition System](https://www.youtube.com/watch?v=rsNAb1KmvFI)
 * [Building Production-Ready Enterprise-Level Image Classifier with AWS & React](https://www.udemy.com/course/build-and-deploy-a-ml-model-to-production-with-aws-and-react/)
 * [Predicting Data Science Salaries APP](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
