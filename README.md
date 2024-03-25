@@ -27,7 +27,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [Deploy Llama 2 on AWS SageMaker using DLC (Deep Learning Containers)](https://www.youtube.com/watch?v=rQq1m2aJ_fk&t=4s)
 * [Article/Blog Generation App using Llama2, Langchain, and Pexels](https://www.youtube.com/watch?v=MUADZ97GgZA)
 
-## [2. Gudied Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
+## [2. Guided Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
 ### 1. Forecasting Projects
 * [Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning](https://www.youtube.com/watch?app=desktop&v=H6du_pfuznE)
