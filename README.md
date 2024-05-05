@@ -28,8 +28,20 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [Article/Blog Generation App using Llama2, Langchain, and Pexels](https://www.youtube.com/watch?v=MUADZ97GgZA)
 
 ## [2. Guided LLM Fine-tuning Projects](https://levelup.gitconnected.com/14-free-large-language-models-fine-tuning-notebooks-532055717cb7?sk=ef3212821235db70871d72c86e179b07) ## 
-
-  
+* [Efficiently Train Large Language Models with LoRA and Hugging Face](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/1.Efficiently_train_Large_Language_Models_with_LoRA_and_Hugging_Face.ipynb)
+* [Fine-Tune Llama 2 Model in a Colab Notebook](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/2.Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.ipynb)
+* [Guanaco Chatbot Demo with LLaMA-7B Model](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/3.Guanaco%20Chatbot%20Demo%20with%20LLaMA-7B%20Model.ipynb)
+* [PEFT Finetune-Bloom-560m-tagger](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb)
+* [Finetune_Meta_OPT-6–1b_Model_bnb_peft](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/6.Finetune%20Falcon-7b%20with%20BNB%20Self%20Supervised%20Training.ipynb)
+* [Finetune Falcon-7b with BNB Self-Supervised Training](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/6.Finetune%20Falcon-7b%20with%20BNB%20Self%20Supervised%20Training.ipynb)
+* [FineTune LLaMa2 with QLoRa](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/7.FineTune_LLAMA2_with_QLORA.ipynb#scrollTo=imgHssi6BF0T)
+* [Stable Vicuna 1 3B_8bit in Google Colab](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/8.Stable_Vicuna13B_8bit_in_Colab.ipynb#scrollTo=EUGsc-8IpfEb)
+* [GPT-Neo-X 20B bnb2bit Training](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/9.GPT-neo-x-20B-bnb_4bit_training.ipynb)
+* [MPT-Instruct-30B Model Training](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/10.MPT_Instruct_30B.ipynb)
+* [RLHF Training for CustomDataset for AnyModel](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/11_RLHF_Training_for_CustomDataset_for_AnyModel.ipynb)
+* [Fine Tuning Microsoft Phi 15 B On Custom Dataset](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/12_Fine_tuning_Microsoft_Phi_1_5b_on_custom_dataset(dialogstudio).ipynb)
+* [Finetuning OpenAI GPT3.5 Turbo](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/13.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb)
+* [Finetuning Mistral-7b using Autotrain Advanced](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/14.Finetuning_Mistral_7b_Using_AutoTrain.ipynb)  
 
 ## [3. Guided Time Series Projects](https://levelup.gitconnected.com/13-guided-time-series-projects-to-build-your-portfolio-491d959f62af?sk=16cf83c0cdf4d428f08f706c75a1b5c5) ## 
 
@@ -63,7 +75,6 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [Building a Horse to Zebra CycleGAN Webapp with Streamlit](https://www.coursera.org/projects/building-a-keras-horse-zebra-cyclegan-webapp-with-streamlit?source=post_page-----537fcd20db7c--------------------------------)
 * [Computer Vision App with Azure Cognitive Services](https://www.coursera.org/projects/build-a-computer-vision-app-with-azure-cognitive-services?source=post_page-----537fcd20db7c--------------------------------)
 * [Object Detection with Amazon Sagemaker](https://www.coursera.org/projects/object-detection-sagemaker?source=post_page-----537fcd20db7c--------------------------------)
-
 
  
 ## [5. Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
