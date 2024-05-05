@@ -67,6 +67,7 @@ A curated list of data science &amp; AI guided projects to start building your p
 ## [4. Guided Computer Vision Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59) ## 
 * [Build a Deep Facial Recognition App from Paper to Code](https://youtu.be/bK_k7eebGgc?list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH)
 * [Real-Time Sign Language Detection Web App](https://youtu.be/ZTSRZt04JkY)
+* [Building Production-Ready Enterprise-Level Image Classifier with AWS & React](https://www.udemy.com/course/build-and-deploy-a-ml-model-to-production-with-aws-and-react/)
 * [Building Computer Vision Mobile Apps](https://youtu.be/YAhid-ux3aY)
 * [Building an Image Search Engine with Python and OpenCV](https://pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/?source=post_page-----537fcd20db7c--------------------------------)
 * [Vehicle Detection, Tracking, and Speed Estimation using a Raspberry Pi & Intel Movidius NCS](https://pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/?source=post_page-----537fcd20db7c--------------------------------)
@@ -75,15 +76,14 @@ A curated list of data science &amp; AI guided projects to start building your p
 * [Building a Horse to Zebra CycleGAN Webapp with Streamlit](https://www.coursera.org/projects/building-a-keras-horse-zebra-cyclegan-webapp-with-streamlit?source=post_page-----537fcd20db7c--------------------------------)
 * [Computer Vision App with Azure Cognitive Services](https://www.coursera.org/projects/build-a-computer-vision-app-with-azure-cognitive-services?source=post_page-----537fcd20db7c--------------------------------)
 * [Object Detection with Amazon Sagemaker](https://www.coursera.org/projects/object-detection-sagemaker?source=post_page-----537fcd20db7c--------------------------------)
+* [Potato Disease Classification Mobile APP](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD)
+* [Sports Celebrity Image Classification Web App](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc)
 
  
 ## [5. Guided Data Science Projects](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b) ## 
 * [Automatic Speech Recognition System](https://www.youtube.com/watch?v=rsNAb1KmvFI)
-* [Building Production-Ready Enterprise-Level Image Classifier with AWS & React](https://www.udemy.com/course/build-and-deploy-a-ml-model-to-production-with-aws-and-react/)
 * [Predicting Data Science Salaries APP](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
 * [Real Estate Price Prediction APP](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg)
-* [Potato Disease Classification Mobile APP](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD)
-* [Sports Celebrity Image Classification Web App](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc)
 * [Real-Time Data Analysis Application](https://www.youtube.com/watch?v=NFwNKkIkN6o&list=PLe1T0uBrDrfOYE8OwQvooPjmnP1zY3wFe&index=2)
 * [Machine Learning Model Monitoring using Airflow and Docker](https://www.projectpro.io/project-use-case/ml-model-monitoring-using-apache-airflow-and-docker)
 * [AI-Based Hybrid Recommender System](https://ineuron.ai/course/Data-Science-Industry-Ready-Projects#:~:text=Project%20%2D%20AI%20Based%20Hybrid%20Recommender%20System)
